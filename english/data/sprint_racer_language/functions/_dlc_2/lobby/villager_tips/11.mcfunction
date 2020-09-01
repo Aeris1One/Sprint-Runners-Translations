@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"Hear that noise I just made? That's the sound an anvil makes before it bashes your face. When you hear that sound, try using a Speed Boost or similar item to avoid getting hit!","color":"white"}]
+playsound minecraft:entity.evoker.prepare_attack master @s ~ ~ ~ 2 1.1

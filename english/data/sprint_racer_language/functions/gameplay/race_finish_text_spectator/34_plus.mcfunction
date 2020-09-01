@@ -1,0 +1,1 @@
+tellraw @a[tag=!playing] ["",{"selector":"@s","color":"aqua"},{"text":" >> Finished! [","color":"white","bold":"true"},{"score":{"name":"@s","objective":"finishPos"},"color":"white","bold":"true"},{"text":"]","color":"white","bold":"true"}]

@@ -1,0 +1,6 @@
+tellraw @s ["",{"text":" "}]
+tellraw @s ["",{"text":"Justice is served!","color":"white","bold":"true"}]
+execute if entity @e[name=w,scores={gameState=1..2}] run tellraw @s ["",{"text":"Target: ","color":"aqua","bold":"true"},{"selector":"@e[limit=1,tag=getJustice]"}]
+execute if entity @e[name=w,scores={gameState=3}] run tellraw @s ["",{"text":"Target: ","color":"red","bold":"true"},{"selector":"@e[limit=1,tag=getJustice]"}]
+execute unless entity @e[name=w,scores={gameState=1..3}] run tellraw @s ["",{"text":"Target: ","color":"white","bold":"true"},{"selector":"@e[limit=1,tag=getJustice]"}]
+tellraw @s ["",{"text":" "}]

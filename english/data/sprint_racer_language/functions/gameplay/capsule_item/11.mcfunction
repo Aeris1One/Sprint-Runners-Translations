@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:ender_pearl",Count:1,tag:{Tags:["no11","stay","item","normalitem"],display:{Name:"{\"text\":\"Ender Pearl\",\"color\":\"aqua\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Ender Pearl\",\"color\":\"aqua\",\"bold\":\"false\",\"italic\":\"false\"}"}

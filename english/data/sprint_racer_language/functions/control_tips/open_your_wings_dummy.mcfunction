@@ -1,0 +1,1 @@
+bossbar set minecraft:control_openwings name ["",{"text":"Press ","color":"white"},{"keybind":"key.jump","color":"aqua","bold":"true"},{"text":" to deploy your elytra!","color":"white"}]

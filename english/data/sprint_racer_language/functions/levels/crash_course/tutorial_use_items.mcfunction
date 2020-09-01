@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIAL] ","color":"aqua","bold":"true"},{"text":"Most items can be activated by using ","color":"white","bold":"false"},{"keybind":"key.use","color":"yellow","bold":"false"}]
+scoreboard players set @s tutorProgress 10

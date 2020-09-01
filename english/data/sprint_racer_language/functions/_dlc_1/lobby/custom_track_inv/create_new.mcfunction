@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.0 crafting_table{Tags:["createnew"],display:{Name:"{\"text\":\"Create new track\",\"color\":\"gold\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

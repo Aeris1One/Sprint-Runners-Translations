@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.1 chain_command_block{Tags:["testtrack"],display:{Name:"{\"text\":\"Test current track\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

@@ -1,0 +1,4 @@
+summon item ~ ~.3 ~ {Tags:["giveVelocity"],PickupDelay:40,Age:0,Item:{id:"minecraft:lingering_potion",Count:1,tag:{Tags:["elite14","stay","item","eliteitem","groundDeploy"],CustomPotionColor:9186694,CustomPotionEffects:[{Id:9b,Amplifier:1b,Duration:100,ShowParticles:0b}],Potion:"minecraft:strong_poison",HideFlags:1,Enchantments:[{id:"minecraft:lure",lvl:1}],display:{Name:"[\"\",{\"text\":\"↑ \",\"color\":\"dark_purple\",\"bold\":\"true\",\"italic\":\"false\"},{\"text\":\"Big Nasty Lingering Potion\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}]"}}}}
+scoreboard players remove @s aiHasItem34 1
+
+execute if entity @s[scores={aiHasItem34=1..}] run function sprint_racer_language:gameplay/ai_drop_item/34

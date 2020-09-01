@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIAL] ","color":"aqua","bold":"true"},{"text":"You hit an elytra pad! Open your wings and glide to the finish line!","color":"white","bold":"false"}]
+scoreboard players set @s tutorProgress 6

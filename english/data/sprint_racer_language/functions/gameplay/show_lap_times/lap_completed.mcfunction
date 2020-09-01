@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Lap Completed!","color":"yellow","bold":"true"}]

@@ -1,0 +1,1 @@
+title @s actionbar ["",{"text":"KOs: ","bold":"true"},{"score":{"name":"@s","objective":"KOs"},"color":"green","bold":"false"},{"text":" "},{"text":" "},{"text":" "},{"text":"Rank: ","bold":"true"},{"score":{"name":"@s","objective":"battPosDisplay"},"color":"white","bold":"true"},{"text":"th","color":"white","bold":"true"}]

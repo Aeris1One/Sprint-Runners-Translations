@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Cheats detected! Time will not be recorded.","color":"red"}]

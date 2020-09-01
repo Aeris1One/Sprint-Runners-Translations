@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.3 lectern{Tags:["trackconfig"],display:{Name:"{\"text\":\"Track config\",\"color\":\"yellow\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

@@ -1,0 +1,2 @@
+bossbar set minecraft:menutimer name ["",{"text":"Targets Remaining: ","color":"red","bold":"true"},{"score":{"name":"@e[name=w,limit=1]","objective":"targetData"},"color":"red","bold":"true"}]
+execute store result bossbar minecraft:menutimer value run scoreboard players get @e[name=w,limit=1] targetData

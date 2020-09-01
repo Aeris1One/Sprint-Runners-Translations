@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIAL] ","color":"aqua","bold":"true"},{"text":"This is a switch. Press it and the track will be altered in some way!","color":"white","bold":"false"}]
+scoreboard players set @s tutorProgress 8

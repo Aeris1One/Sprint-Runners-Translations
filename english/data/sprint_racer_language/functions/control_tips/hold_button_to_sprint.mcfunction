@@ -1,0 +1,1 @@
+bossbar set minecraft:control_holdtosprint name ["",{"text":"Hold ","color":"white"},{"keybind":"key.sprint","color":"aqua","bold":"true"},{"text":" to sprint!","color":"white"}]

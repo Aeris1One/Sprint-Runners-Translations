@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:potato",Count:1,tag:{Tags:["no0","stay","item","normalitem"],display:{Name:"{\"text\":\"Useless Potato\",\"color\":\"gold\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Useless Potato\",\"color\":\"gold\",\"bold\":\"false\",\"italic\":\"false\"}"}

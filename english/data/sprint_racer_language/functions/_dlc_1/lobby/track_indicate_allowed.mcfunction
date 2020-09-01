@@ -1,0 +1,1 @@
+execute as @e[tag=trackStatus] run data merge entity @s {CustomName:"{\"text\":\"Track: Allowed\",\"color\":\"green\",\"bold\":\"true\"}",CustomNameVisible:1b}

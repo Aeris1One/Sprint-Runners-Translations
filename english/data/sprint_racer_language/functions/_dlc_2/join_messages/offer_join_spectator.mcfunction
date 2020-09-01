@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"You're spectating!","bold":true,"color":"light_purple"},{"text":"\nWant to join the game? ","color":"white"},{"text":"[Yes]","color":"yellow","clickEvent":{"action":"run_command","value":"/trigger specJoin set 1"},"hoverEvent":{"action":"show_text","value":"Yes"}},{"text":" (click)","color":"gray"}]
+scoreboard players set @s specJoinTime 1

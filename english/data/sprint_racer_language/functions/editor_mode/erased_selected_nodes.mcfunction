@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Erased all selected nodes.","color":"green"}]

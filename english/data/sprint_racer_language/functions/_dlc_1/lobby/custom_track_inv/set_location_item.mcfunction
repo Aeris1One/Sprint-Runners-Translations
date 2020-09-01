@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.4 structure_block{Tags:["setlocation"],display:{Name:"{\"text\":\"Set coordinates to current location\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

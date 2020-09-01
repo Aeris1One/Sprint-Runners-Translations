@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:anvil",Count:1,tag:{Tags:["no17","stay","item","normalitem","rightclick"],display:{Name:"{\"text\":\"Anvil of Justice\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Anvil of Justice\",\"color\":\"light_purple\",\"bold\":\"false\",\"italic\":\"false\"}"}

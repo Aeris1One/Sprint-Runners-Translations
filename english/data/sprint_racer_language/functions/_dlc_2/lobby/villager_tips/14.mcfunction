@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"You know when the game gives you way too many Healthy Apples? That's a mood. Maybe I should try enchanting them? Worth a shot.","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

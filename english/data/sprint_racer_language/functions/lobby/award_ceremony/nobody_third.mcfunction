@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Nobody got third...","color":"gold","bold":"true"}]

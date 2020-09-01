@@ -1,0 +1,11 @@
+#erase time attack data
+setblock 1593 89 385 minecraft:birch_wall_sign[facing=north]
+
+execute if entity @e[name=w,type=armor_stand,scores={difficultyRamp=1..}] run data merge block 1593 89 385 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/difficulty_ramp\"}}",Text2:"{\"text\":\"DIFFICULTY\",\"bold\":true,\"color\":\"black\"}",Text3:"{\"text\":\"RAMP-UP\",\"bold\":true,\"color\":\"black\"}",Text4:"{\"text\":\"[ON]\",\"color\":\"gold\"}"}
+execute unless entity @e[name=w,type=armor_stand,scores={difficultyRamp=1..}] run data merge block 1593 89 385 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/difficulty_ramp\"}}",Text2:"{\"text\":\"DIFFICULTY\",\"bold\":true,\"color\":\"black\"}",Text3:"{\"text\":\"RAMP-UP\",\"bold\":true,\"color\":\"black\"}",Text4:"{\"text\":\"[OFF]\",\"color\":\"gold\"}"}
+
+execute if entity @e[name=w,type=armor_stand,tag=!endlessMode] run data merge block 1576 89 426 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/endless_mode\"}}",Text2:"{\"text\":\"ENDLESS MODE:\",\"bold\":true,\"color\":\"white\"}",Text3:"{\"text\":\"[OFF]\",\"color\":\"yellow\"}"}
+execute if entity @e[name=w,type=armor_stand,tag=endlessMode] run data merge block 1576 89 426 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/endless_mode\"}}",Text2:"{\"text\":\"ENDLESS MODE:\",\"bold\":true,\"color\":\"white\"}",Text3:"{\"text\":\"[ON]\",\"color\":\"yellow\"}"}
+
+#reset cheats
+data merge block 1631 87 438 {Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function sprint_racer:game_logic/0/options_signs/disable_all_cheats\"}}",Text2:"{\"text\":\"CHEATS\",\"bold\":true,\"color\":\"black\"}",Text3:"{\"text\":\"[DISABLE ALL]\",\"bold\":false,\"color\":\"dark_gray\"}"}

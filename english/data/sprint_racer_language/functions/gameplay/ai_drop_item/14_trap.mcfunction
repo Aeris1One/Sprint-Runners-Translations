@@ -1,0 +1,1 @@
+summon item ~ ~.3 ~ {Motion:[0.0,0.2,0.0],Tags:["nopickup"],PickupDelay:40,Age:0,Item:{id:"minecraft:lingering_potion",Count:1,tag:{Tags:["no14","stay","item","normalitem","groundDeploy"],Potion:"minecraft:poison",display:{Name:"{\"text\":\"Nasty Lingering Potion\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}

@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIAL] ","color":"aqua","bold":"true"},{"text":"Iron blocks","color":"gray","bold":"false"},{"text":" give you short invulnerability.","color":"white"}]
+scoreboard players set @s tutorProgress 4

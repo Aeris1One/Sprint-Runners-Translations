@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"Most traps and offensive items can't hit you while you're using the Invisibility item!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

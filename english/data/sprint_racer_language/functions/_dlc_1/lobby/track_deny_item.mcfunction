@@ -1,0 +1,1 @@
+replaceitem entity @a[tag=!hasMap2] hotbar.4 minecraft:gray_dye{Tags:["trackDeny"],display:{Name:"[\"\",{\"text\":\"Track: Banned\",\"color\":\"gray\",\"bold\":\"true\",\"italic\":\"false\"}]"}}

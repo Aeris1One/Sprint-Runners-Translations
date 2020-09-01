@@ -1,0 +1,2 @@
+replaceitem entity @a[tag=playing,gamemode=adventure,tag=!readyup,scores={hp=1..}] hotbar.4 red_concrete{Tags:["readyup","red","itemhastitle"],display:{Name:"{\"text\":\"Not ready!\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1
+replaceitem entity @a[tag=playing,gamemode=adventure,tag=readyup,scores={hp=1..}] hotbar.4 lime_concrete{Tags:["readyup","green","itemhastitle"],display:{Name:"{\"text\":\"Ready!\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

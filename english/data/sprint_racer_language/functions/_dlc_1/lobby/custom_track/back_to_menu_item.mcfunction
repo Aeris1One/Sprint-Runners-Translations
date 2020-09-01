@@ -1,0 +1,1 @@
+replaceitem entity @a[scores={hp=1..,playerState=..1},tag=!hasExit,tag=!playerVote1] hotbar.8 barrier{Tags:["exit","notitle"],display:{Name:"{\"text\":\"Return to custom track manager\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

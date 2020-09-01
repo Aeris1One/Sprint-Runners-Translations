@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"I never thought the Jump Boost, Ender Pearl, or Elytra items were all that useful. Not until I witnessed someone win a race by shorcutting their way to every checkpoint. I think they memorized where the checkpoints were... that's cheating!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

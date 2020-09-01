@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {CustomName:"{\"text\":\"Race Mode Item Rule:\",\"color\":\"aqua\",\"bold\":\"true\"}",CustomNameVisible:false,Marker:1b,Invulnerable:1,Invisible:1,Tags:["setme"]}

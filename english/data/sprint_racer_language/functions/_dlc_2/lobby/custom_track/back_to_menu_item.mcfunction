@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.8 barrier{Tags:["exit","notitle"],display:{Name:"{\"text\":\"Return to custom track manager\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

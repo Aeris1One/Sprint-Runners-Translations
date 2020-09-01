@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"[TUTORIAL] ","color":"aqua","bold":"true"},{"text":"Gold blocks","color":"yellow","bold":"false"},{"text":" give you a speed boost.","color":"white"}]
+scoreboard players set @s tutorProgress 1

@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"Ever tried using TNT as a trap item? It works best if you drop the item instead of throwing it.","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

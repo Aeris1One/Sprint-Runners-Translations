@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"All selected nodes are now facing you (throw again or reconnect to correct a render bug)","color":"aqua"}]

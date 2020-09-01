@@ -1,0 +1,1 @@
+replaceitem entity @a[scores={hp=1..},tag=playing,tag=tempTarget] hotbar.0 filled_map{Tags:["wmPreview","itemhastitle","wmcustommap"],map:9997,display:{Name:"{\"text\":\"Custom Track (Battle)\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}",MapColor:16720384}} 1

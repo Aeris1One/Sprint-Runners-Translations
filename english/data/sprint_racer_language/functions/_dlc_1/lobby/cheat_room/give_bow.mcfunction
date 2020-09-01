@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.3 minecraft:bow{display:{Name:'{"text":"Cheat Entry","color":"light_purple","bold":false,"italic":true}'},Unbreakable:1b,Enchantments:[{id:"minecraft:infinity",lvl:1s}],Tags:["cheatentry"]} 1

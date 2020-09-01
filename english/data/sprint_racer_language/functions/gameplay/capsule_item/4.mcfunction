@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:golden_sword",Count:1,tag:{Damage:32,Tags:["no4","stay","item","normalitem","stronk"],HideFlags:1,Enchantments:[{id:"minecraft:knockback",lvl:10}],display:{Name:"{\"text\":\"Knockback Sword\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Knockback Sword\",\"color\":\"red\",\"bold\":\"false\",\"italic\":\"false\"}"}

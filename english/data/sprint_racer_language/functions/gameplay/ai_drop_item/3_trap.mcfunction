@@ -1,0 +1,1 @@
+summon item ~ ~.3 ~ {Motion:[0.0,0.2,0.0],Tags:["nopickup"],PickupDelay:40,Age:0,Item:{id:"minecraft:tnt",Count:1,tag:{Tags:["no3","stay","item","normalitem","groundDeploy","rightclick"],display:{Name:"{\"text\":\"Throwable TNT\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}

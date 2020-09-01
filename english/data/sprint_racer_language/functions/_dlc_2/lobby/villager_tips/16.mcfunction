@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"The Gauntlet is downright sadistic. Legends say it can be beaten in a mere 3 minutes and 41 seconds. How in the WORLD is that possible?!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

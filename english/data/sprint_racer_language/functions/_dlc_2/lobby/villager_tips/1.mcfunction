@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"Did you know you can heal yourself by holding ","color":"white"},{"keybind":"key.sneak","color":"white"},{"text":"? You can do it in any gamemode. It works wonders in battle mode!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

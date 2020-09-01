@@ -1,0 +1,1 @@
+tellraw @a[tag=!minChat] ["",{"text":"The ","color":"white"},{"text":"emerald","color":"green"},{"text":" route is now open!","color":"white"}]

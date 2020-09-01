@@ -1,0 +1,1 @@
+tellraw @a[tag=!playing] ["",{"selector":"@s"},{"text":" >> Finished! [1st]","color":"yellow","bold":"true"}]
