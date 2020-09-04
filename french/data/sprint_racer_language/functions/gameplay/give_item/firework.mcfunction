@@ -1,0 +1,1 @@
+give @s firework_rocket{Tags:["rocketboost"],HideFlags:1,Enchantments:[{id:"minecraft:lure",lvl:1}],display:{Name:"[\"\",{\"text\":\"↑ \",\"color\":\"dark_purple\",\"bold\":\"true\",\"italic\":\"false\"},{\"text\":\"Rocket Boost\",\"color\":\"aqua\",\"bold\":\"true\",\"italic\":\"false\"}]"}} 1

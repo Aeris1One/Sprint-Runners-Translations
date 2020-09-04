@@ -1,0 +1,13 @@
+This folder, "sprint_racer_language", contains all in-game text features that are relevant to translating this map for different languages.
+This was created for convenience, so people translating this don't have to dig through mountains of extra code.
+
+The default language for this map is English (US).
+Feel free to modify (translate) and distribute this folder for different languages.
+
+
+#################### PLEASE NOTE: ##########################
+> A language folder MUST be present in order for the map to function properly!
+> NEVER edit tags on any item or entity, these must stay the same otherwise stuff will break! They often appear like this: {Tags:["example"]}
+> Item custom names names, entity custom names names, scoreboard objective display names are all safe to edit.
+> Some commands are very long and have their text elements near the end of the command, make sure you scroll to see the entire command to see if there's text to edit!
+#############################################################

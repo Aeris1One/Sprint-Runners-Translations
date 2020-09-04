@@ -1,0 +1,1 @@
+replaceitem entity @a[tag=!hasMap1] hotbar.4 minecraft:lime_dye{Tags:["trackAllow"],display:{Name:"[\"\",{\"text\":\"Track: Allowed\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}]"}}

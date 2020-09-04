@@ -1,0 +1,4 @@
+summon item ~ ~.3 ~ {Tags:["giveVelocity"],PickupDelay:40,Age:0,Item:{id:"minecraft:bricks",Count:1,tag:{CustomModelData:1111111,Tags:["elite15","stay","item","eliteitem","rightclick"],EntityTag:{Tags:["invalidchicken"]},HideFlags:1,Enchantments:[{id:"minecraft:lure",lvl:1}],display:{Name:"[\"\",{\"text\":\"↑ \",\"color\":\"dark_purple\",\"bold\":\"true\",\"italic\":\"false\"},{\"text\":\"Hyper Chicken Mine\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}]"}}}}
+scoreboard players remove @s aiHasItem35 1
+
+execute if entity @s[scores={aiHasItem35=1..}] run function sprint_racer_language:gameplay/ai_drop_item/35

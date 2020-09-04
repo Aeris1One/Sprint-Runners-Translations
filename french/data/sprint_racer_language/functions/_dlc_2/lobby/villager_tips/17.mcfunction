@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"It's really fun to use the Elytra item when you're up extra high-- you can glide SUPER fast!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

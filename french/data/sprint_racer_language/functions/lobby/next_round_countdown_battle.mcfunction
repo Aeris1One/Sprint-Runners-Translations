@@ -1,0 +1,4 @@
+bossbar set minecraft:menutimer style notched_10
+execute if entity @e[name=w,scores={gameTime=2..}] run bossbar set minecraft:menutimer name ["",{"text":"Next battle starts in ","color":"red","bold":"true"},{"score":{"name":"@e[limit=1,name=w]","objective":"gameTime"},"color":"red","bold":"true"},{"text":" seconds!","color":"red","bold":"true"}]
+execute if entity @e[name=w,scores={gameTime=1}] run bossbar set minecraft:menutimer name ["",{"text":"Next battle starts in ","color":"red","bold":"true"},{"score":{"name":"@e[limit=1,name=w]","objective":"gameTime"},"color":"red","bold":"true"},{"text":" second!","color":"red","bold":"true"}]
+execute if entity @e[name=w,scores={gameTime=..0}] run bossbar set minecraft:menutimer name ["",{"text":"Next battle starts in ","color":"red","bold":"true"},{"score":{"name":"@e[limit=1,name=w]","objective":"gameTime"},"color":"red","bold":"true"},{"text":" seconds!","color":"red","bold":"true"}]

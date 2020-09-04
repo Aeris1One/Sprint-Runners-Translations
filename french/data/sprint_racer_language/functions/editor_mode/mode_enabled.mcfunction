@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Editor Mode enabled. Check your inventory!","color":"green"}]

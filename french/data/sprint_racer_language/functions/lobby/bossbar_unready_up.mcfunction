@@ -1,0 +1,4 @@
+bossbar set minecraft:unreadyprogress color red
+bossbar set minecraft:unreadyprogress style progress
+execute if entity @e[name=w,scores={readyRequired=..1}] run bossbar set minecraft:unreadyprogress name ["",{"score":{"name":"@e[limit=1,name=w]","objective":"readyRequired"},"color":"red","bold":"true"},{"text":" player must un-ready to pause the lobby.","color":"red","bold":"true"}]
+execute unless entity @e[name=w,scores={readyRequired=..1}] run bossbar set minecraft:unreadyprogress name ["",{"score":{"name":"@e[limit=1,name=w]","objective":"readyRequired"},"color":"red","bold":"true"},{"text":" players must un-ready to pause the lobby.","color":"red","bold":"true"}]

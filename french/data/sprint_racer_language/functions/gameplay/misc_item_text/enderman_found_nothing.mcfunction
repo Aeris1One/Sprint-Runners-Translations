@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Your enderman couldn't find anything to steal. Sorry!","color":"white"}]

@@ -1,0 +1,1 @@
+tellraw @a[tag=!playing] ["",{"text":"CPU_","color":"yellow"},{"score":{"name":"@s","objective":"rNumber"},"color":"yellow"},{"text":" >> Finished! [33rd]","color":"white","bold":"true"}]

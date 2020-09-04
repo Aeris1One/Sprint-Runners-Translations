@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Editor Mode disabled.","color":"gray"}]

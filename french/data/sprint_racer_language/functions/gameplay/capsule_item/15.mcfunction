@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:bricks",Count:1,tag:{CustomModelData:1111111,Tags:["no15","stay","item","normalitem","rightclick"],EntityTag:{Tags:["invalidchicken"]},display:{Name:"{\"text\":\"Chicken Mine\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Chicken Mine\",\"color\":\"green\",\"bold\":\"false\",\"italic\":\"false\"}"}

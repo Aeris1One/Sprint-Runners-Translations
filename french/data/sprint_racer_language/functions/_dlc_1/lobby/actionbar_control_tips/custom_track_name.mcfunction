@@ -1,0 +1,3 @@
+execute if entity @s[nbt={SelectedItem:{tag:{Tags:["mapv1"]},id:"minecraft:filled_map"}}] run title @s actionbar ["",{"text":"Custom Track: ","color":"white","bold":"true"},{"selector":"@e[tag=vote1,limit=1]"}]
+execute if entity @s[nbt={SelectedItem:{tag:{Tags:["mapv2"]},id:"minecraft:filled_map"}}] run title @s actionbar ["",{"text":"Custom Track: ","color":"white","bold":"true"},{"selector":"@e[tag=vote2,limit=1]"}]
+execute if entity @s[nbt={SelectedItem:{tag:{Tags:["mapv3"]},id:"minecraft:filled_map"}}] run title @s actionbar ["",{"text":"Custom Track: ","color":"white","bold":"true"},{"selector":"@e[tag=vote3,limit=1]"}]

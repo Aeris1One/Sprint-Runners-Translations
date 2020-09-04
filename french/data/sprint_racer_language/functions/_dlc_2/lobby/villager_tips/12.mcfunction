@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"Have you played Time Attack with items on? I thought it would be unpredictable, but it turns out the same items spawn in the same place every time!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"If your XP bar is flashing, that means you're in 'hitstun'! You can't self-heal or gain speed while stunned.","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

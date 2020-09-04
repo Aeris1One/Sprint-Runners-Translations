@@ -1,0 +1,1 @@
+scoreboard objectives add displayLivesB dummy ["",{"text":"Lives","color":"white","bold":"true"}]

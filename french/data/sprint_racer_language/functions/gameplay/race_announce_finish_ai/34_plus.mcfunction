@@ -1,0 +1,1 @@
+title @a[scores={actionbarState=5}] actionbar ["",{"text":"CPU_","color":"yellow"},{"score":{"name":"@s","objective":"rNumber"},"color":"yellow"},{"text":" >> Finished! [","color":"white","bold":"true"},{"score":{"name":"@s","objective":"finishPos"},"color":"white","bold":"true"},{"text":"]","color":"white","bold":"true"}]

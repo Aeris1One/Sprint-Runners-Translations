@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:apple",Count:1,tag:{Tags:["no5","stay","item","normalitem","rightclick"],display:{Name:"{\"text\":\"Healthy Apple\",\"color\":\"yellow\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Healthy Apple\",\"color\":\"yellow\",\"bold\":\"false\",\"italic\":\"false\"}"}

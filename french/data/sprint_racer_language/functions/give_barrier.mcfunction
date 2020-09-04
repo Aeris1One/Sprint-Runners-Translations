@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.8 barrier{display:{Lore:["Stuck? Use this to snap back to the last checkpoint you hit!"],Name:"{\"text\":\"Reset\",\"bold\":\"false\",\"italic\":\"false\",\"color\":\"red\"}"},Tags:["reset","rightclick"]} 1

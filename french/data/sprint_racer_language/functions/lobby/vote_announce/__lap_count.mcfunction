@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Laps: ","color":"white","bold":"true"},{"score":{"name":"@e[name=w,limit=1]","objective":"lap"},"color":"white","bold":"true"}]

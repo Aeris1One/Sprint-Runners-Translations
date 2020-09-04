@@ -1,0 +1,2 @@
+execute unless entity @e[name=w,tag=realms] run tellraw @s ["",{"text":"Map version: 1.2.8","bold":"false","color":"gray"}]
+#execute unless entity @e[name=w,tag=realms] run tellraw @s ["",{"text":"Datapack language: English","bold":"false","color":"gray"}]

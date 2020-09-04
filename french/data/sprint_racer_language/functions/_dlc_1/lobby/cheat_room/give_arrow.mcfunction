@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.5 minecraft:arrow{display:{Name:'{"text":"Arrow of Cheating","color":"light_purple","bold":false,"italic":true}'},Tags:["cheatarrow"]} 1

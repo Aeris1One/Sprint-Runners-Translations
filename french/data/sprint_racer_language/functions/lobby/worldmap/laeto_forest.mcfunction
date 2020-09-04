@@ -1,0 +1,1 @@
+replaceitem entity @a[scores={hp=1..},tag=playing,tag=tempTarget] hotbar.0 filled_map{Tags:["wmPreview","itemhastitle"],map:5,display:{Name:"{\"text\":\"Laeto Forest (Race)\",\"color\":\"aqua\",\"bold\":\"true\",\"italic\":\"false\"}",MapColor:43775}} 1

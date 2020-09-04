@@ -1,0 +1,1 @@
+replaceitem entity @s armor.head minecraft:stone_button{CustomModelData:1116111,display:{Name:"{\"text\":\"Magic Head Button\",\"color\":\"gray\",\"bold\":\"true\",\"italic\":\"false\"}"},HideFlags:1,Enchantments:[{id:"minecraft:respiration",lvl:3},{id:"minecraft:depth_strider",lvl:3},{id:"minecraft:binding_curse",lvl:1},{id:"minecraft:vanishing_curse",lvl:1}]} 1

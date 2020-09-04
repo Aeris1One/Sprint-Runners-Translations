@@ -1,0 +1,2 @@
+clear @s stick
+give @s stick{Tags:["cheatstick","stronk"],display:{Lore:['{"text":"Bonk.","color":"light_purple","bold":false}'],Name:"{\"text\":\"Knockback Stick\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"true\"}"},Enchantments:[{id:"minecraft:knockback",lvl:5s}]} 1

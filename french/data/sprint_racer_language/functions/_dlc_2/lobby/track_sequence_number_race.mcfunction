@@ -1,0 +1,2 @@
+tellraw @a[tag=!minChat] ["",{"text":" "}]
+tellraw @a[tag=!minChat] ["",{"text":"Race Track ","bold":"true"},{"text":"#","color":"aqua"},{"score":{"name":"@e[name=w,limit=1]","objective":"trackSequenceR"},"bold":"true","color":"aqua"}]

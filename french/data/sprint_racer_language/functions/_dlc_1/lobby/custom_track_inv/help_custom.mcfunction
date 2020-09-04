@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.7 paper{Tags:["helpcustom"],display:{Name:"{\"text\":\"Help\",\"color\":\"white\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

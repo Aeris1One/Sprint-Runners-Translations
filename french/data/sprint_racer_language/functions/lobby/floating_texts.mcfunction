@@ -1,0 +1,1 @@
+summon armor_stand 1556 91.5 412 {Tags:["lobbyprop"],Invulnerable:1b,NoBasePlate:1b,NoGravity:1b,Invisible:1,Marker:1b,CustomName:"{\"text\":\"Open your inventory for settings!\",\"color\":\"white\"}",CustomNameVisible:1b,DisabledSlots:2039583}

@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.5 tnt{Tags:["deletetrack"],display:{Name:"{\"text\":\"Delete current track\",\"color\":\"red\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

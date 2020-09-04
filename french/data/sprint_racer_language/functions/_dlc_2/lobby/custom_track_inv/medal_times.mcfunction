@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.5 yellow_stained_glass{Tags:["trackmedaltime"],display:{Name:"{\"text\":\"Edit medal times\",\"color\":\"yellow\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

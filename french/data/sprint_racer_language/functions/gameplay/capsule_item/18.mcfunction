@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:black_terracotta",Count:1,tag:{CustomModelData:1111111,Tags:["no18","stay","item","normalitem","rightclick"],display:{Name:"{\"text\":\"Enderman Thief\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Enderman Thief\",\"color\":\"light_purple\",\"bold\":\"false\",\"italic\":\"false\"}"}

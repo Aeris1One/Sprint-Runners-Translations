@@ -1,0 +1,1 @@
+title @a[scores={actionbarState=5}] actionbar ["",{"selector":"@s","color":"aqua"},{"text":" >> Finished! [2nd]","color":"gray","bold":"true"}]

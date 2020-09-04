@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"I use TNT to blast-boost myself while flying with Elytra! It works suprisingly well.","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

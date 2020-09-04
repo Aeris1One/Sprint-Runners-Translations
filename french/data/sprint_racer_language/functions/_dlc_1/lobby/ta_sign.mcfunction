@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.1 minecraft:jungle_sign{Tags:["TASign"],display:{Name:"[\"\",{\"text\":\"View Times\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}]"}}

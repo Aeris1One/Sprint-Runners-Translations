@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"One time I tried throwing enchanted TNT directly at my feet. The explosion sent me into orbit!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

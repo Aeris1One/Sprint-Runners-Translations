@@ -1,0 +1,2 @@
+#why would anyone enchant a potato
+give @s baked_potato{Tags:["elite0","stay","item","eliteitem"],HideFlags:1,Enchantments:[{id:"minecraft:lure",lvl:1}],display:{Name:"[\"\",{\"text\":\"↑ \",\"color\":\"dark_purple\",\"bold\":\"true\",\"italic\":\"false\"},{\"text\":\"Shiny Useless Potato\",\"color\":\"gold\",\"bold\":\"true\",\"italic\":\"false\"}]"}} 1

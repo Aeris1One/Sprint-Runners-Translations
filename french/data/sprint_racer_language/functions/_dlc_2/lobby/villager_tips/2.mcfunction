@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"I like to improvise shortcuts! You can get away with pretty much anything as long as you hit checkpoints.","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1

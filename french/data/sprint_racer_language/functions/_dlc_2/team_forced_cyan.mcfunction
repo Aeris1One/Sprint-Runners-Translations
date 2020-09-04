@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"[ ! ] Auto-balance! You've been switched to the cyan team.","color":"dark_aqua"}]

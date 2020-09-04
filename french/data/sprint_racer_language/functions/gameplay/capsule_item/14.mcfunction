@@ -1,0 +1,2 @@
+summon item ~ ~.3 ~ {Tags:["capsuleItem","capsuleSummon","itemcontainer"],PickupDelay:32767,Age:-32768,NoGravity:1,Invulnerable:1,Item:{id:"minecraft:lingering_potion",Count:1,tag:{Tags:["no14","stay","item","normalitem","groundDeploy"],Potion:"minecraft:poison",display:{Name:"{\"text\":\"Nasty Lingering Potion\",\"color\":\"green\",\"bold\":\"true\",\"italic\":\"false\"}"}}}}
+data merge entity @e[limit=1,tag=cSETME] {CustomNameVisible:1,CustomName:"{\"text\":\"Nasty Lingering Potion\",\"color\":\"green\",\"bold\":\"false\",\"italic\":\"false\"}"}

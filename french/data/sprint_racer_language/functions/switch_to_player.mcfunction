@@ -1,0 +1,1 @@
+tellraw @s[tag=!minChat] ["",{"text":"You are now a player!","color":"aqua","italic":"true"}]

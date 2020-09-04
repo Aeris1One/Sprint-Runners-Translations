@@ -1,0 +1,1 @@
+replaceitem entity @s hotbar.2 structure_block{Tags:["edittrack"],display:{Name:"{\"text\":\"Warp to & edit track\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

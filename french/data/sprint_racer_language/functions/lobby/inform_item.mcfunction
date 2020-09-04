@@ -1,0 +1,2 @@
+replaceitem entity @a[tag=!playing,gamemode=adventure,tag=afk,scores={hp=1..}] hotbar.4 gray_stained_glass{Tags:["inform","gray","notitle"],display:{Name:"{\"text\":\"Currently AFK.\",\"color\":\"gray\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1
+replaceitem entity @a[tag=!playing,gamemode=adventure,tag=!afk,tag=forcespectate,scores={hp=1..}] hotbar.4 pink_stained_glass{Tags:["inform","pink","notitle"],display:{Name:"{\"text\":\"Currently spectating.\",\"color\":\"light_purple\",\"bold\":\"true\",\"italic\":\"false\"}"}} 1

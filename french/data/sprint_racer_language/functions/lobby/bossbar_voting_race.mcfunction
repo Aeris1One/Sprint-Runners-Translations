@@ -1,0 +1,2 @@
+bossbar set minecraft:menutimer style notched_10
+bossbar set minecraft:menutimer name ["",{"text":"Vote for the next race track! [","color":"yellow","bold":"true"},{"score":{"name":"@e[limit=1,name=w]","objective":"voteTime"},"color":"yellow","bold":"true"},{"text":"s]","color":"yellow","bold":"true"}]

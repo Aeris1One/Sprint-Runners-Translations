@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"<","color":"white"},{"text":"Villager","color":"gray"},{"text":"> ","color":"white"},{"text":"I heard this map has a track editor in the downloadable version. It got cut out of the official Realms version... that's a shame!","color":"white"}]
+playsound minecraft:entity.villager.yes master @s ~ ~ ~ 2 1
