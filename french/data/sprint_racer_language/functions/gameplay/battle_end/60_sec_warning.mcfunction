@@ -1,3 +1,3 @@
 tellraw @a[tag=!minChat] ["",{"text":" "}]
-tellraw @a[tag=!minChat] ["",{"text":"Battle ends in ","color":"white"},{"text":"60","color":"red"},{"text":" seconds!","color":"white"}]
+tellraw @a[tag=!minChat] ["",{"text":"La bataille se termine dans ","color":"white"},{"text":"60","color":"red"},{"text":" secondes!","color":"white"}]
 tellraw @a[tag=!minChat] ["",{"text":" "}]

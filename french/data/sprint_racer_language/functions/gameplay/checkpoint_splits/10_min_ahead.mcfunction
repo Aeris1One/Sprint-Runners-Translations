@@ -1,4 +1,4 @@
-tellraw @s[tag=!minChat] ["",{"text":"Incredible! You're over 10 minutes ahead of your previous lap!","color":"green"}]
+tellraw @s[tag=!minChat] ["",{"text":"Incroyable! Vous avez plus de 10 minutes d'avance sur votre tour précédent!","color":"green"}]
 
 title @s subtitle ["",{"text":"-9:99:9","color":"green","bold":"true"}]
 title @s title [""]

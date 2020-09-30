@@ -1,4 +1,4 @@
-title @a subtitle ["",{"text":"Bronze medal earned!","color":"gold","bold":"true"}]
+title @a subtitle ["",{"text":"Médaille de bronze obtenue!","color":"gold","bold":"true"}]
 title @a title [""]
 
 execute as @a at @s run playsound minecraft:entity.arrow.hit_player master @s ~ 100000 ~ 100000 .6

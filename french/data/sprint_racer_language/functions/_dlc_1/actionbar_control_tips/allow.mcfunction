@@ -1,1 +1,1 @@
-title @s actionbar ["",{"text":"Use ","color":"white"},{"keybind":"key.use","color":"yellow","bold":"false"},{"text":" to allow this track to appear randomly.","color":"white"}]
+title @s actionbar ["",{"text":"Utilisez ","color":"white"},{"keybind":"key.use","color":"yellow","bold":"false"},{"text":" pour autoriser cette piste à apparaitre aléatoirement.","color":"white"}]

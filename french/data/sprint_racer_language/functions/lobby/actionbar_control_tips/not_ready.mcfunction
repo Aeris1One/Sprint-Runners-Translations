@@ -1,1 +1,1 @@
-title @s actionbar ["",{"text":"Use ","color":"white"},{"keybind":"key.use","color":"yellow","bold":"false"},{"text":" to un-ready up!","color":"white"}]
+title @s actionbar ["",{"text":"Utilisez ","color":"white"},{"keybind":"key.use","color":"yellow","bold":"false"},{"text":" pour vous marquer comme "Non prêt"!","color":"white"}]

@@ -1,1 +1,1 @@
-scoreboard objectives add displayLivesA dummy ["",{"text":"Lives","color":"white","bold":"true"}]
+scoreboard objectives add displayLivesA dummy ["",{"text":"Vies","color":"white","bold":"true"}]
